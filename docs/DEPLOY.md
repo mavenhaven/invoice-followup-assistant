@@ -34,8 +34,14 @@ reading and writing one Google Sheet, protected by a password.
 
 ## Part 1. The Google service account
 
-The app signs in to Google as a **service account**: a robot user with its own email address. You can reuse the one you made
-for local testing, and then skip to Part 2.
+The app signs in to Google as a **service account**: a robot user with its own email address.
+
+> **Already set this up for local testing? Then Part 1 is done: skip to Part 2 (or Part 3).** Use the *same* project, the
+> *same* service account and the *same* key file. Nothing in Google needs to change for the cloud. The secrets file you
+> made for local use (`.streamlit/secrets.toml`) already contains the key, and Part 5 tells you to paste its contents into
+> Streamlit. The only reason to make a second key is if you want to be able to revoke the cloud's access without affecting
+> your local testing: in the Google console, open the service account > **Keys > Add key > JSON**, then build a second
+> secrets file from it with `make_secrets.py --output`. That is optional.
 
 **If you have not made one yet** (Google Cloud console, <https://console.cloud.google.com/>):
 
