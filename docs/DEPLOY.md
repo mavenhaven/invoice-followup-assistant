@@ -141,8 +141,29 @@ Without the GitHub CLI: create an empty **private** repository on github.com (no
      The default shown is 3.12, which was *not* tested. If 3.13 is not offered, pick the newest listed.
      Streamlit's documentation does not describe changing the version after deployment; plan to delete the app and
      deploy it again if you ever need to.
-   * **Secrets:** paste the **entire contents** of your local `.streamlit/secrets.toml` (open it in a text editor, select all,
-     copy). It looks like this, with your own values:
+   * **Secrets:** paste the **entire contents** of your local `.streamlit/secrets.toml`.
+
+     **For the setup already made on this computer** (nothing to create, just copy and paste):
+
+     | What | Where it is |
+     |---|---|
+     | Google Cloud project | `invoice-followup-4456` |
+     | Service account | `invoice-followup@invoice-followup-4456.iam.gserviceaccount.com` |
+     | Key file (never leaves this computer) | `C:\Users\rramani\.invoice-followup\key.json` |
+     | **The secrets text to paste** | `C:\Users\rramani\rohlik-assignment\.streamlit\secrets.toml` (already contains the key, the app password and the test copy's sheet id) |
+
+     To put that text on the clipboard **without displaying it**, run this in PowerShell, then click into the Secrets box
+     and press **Ctrl+V**:
+
+     ```
+     Get-Content "C:\Users\rramani\rohlik-assignment\.streamlit\secrets.toml" -Raw | Set-Clipboard
+     ```
+
+     Afterwards, clear the clipboard (copy any ordinary word) and do not paste it anywhere else. The key and the password
+     are deliberately **not written in this guide**, because this file is stored in GitHub. Do not add them to it.
+     Do not run `make_secrets.py` again for this: the file already exists and already points at the test copy.
+
+     For anyone else (or a rebuilt file), the secrets text looks like this, with your own values:
 
      ```toml
      sheet_id = "1AbC...the-long-id"
