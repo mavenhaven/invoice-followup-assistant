@@ -1,0 +1,36 @@
+Invoice Number,Customer,Country,Contact Name,Email,Phone,Invoice Date,Due Date,Invoice Amount,Amount Outstanding,Currency,Last Contact Date,Contact Attempts,Ready for Contact,Outcome,Summary,Last Updated,Notes
+INV-2026-4471,Nordbach Handels GmbH,DE,Katrin Vogel,k.vogel@nordbach-handels.de,+49 30 5540 1182,2026-07-09,2026-08-08,4820,4820,EUR,,0,Yes,,,,
+INV-2026-4488,Stellberg Logistik GmbH,DE,Marek Weiss,m.weiss@stellberg-log.de,+49 89 2201 7734,2026-07-02,2026-08-01,12750.5,12750.5,EUR,,0,Yes,,,,
+INV-2026-4402,Alpenfrisch Vertrieb GmbH,AT,Julia Hofer,j.hofer@alpenfrisch.at,+43 1 890 4471,2026-06-17,2026-07-17,2310,2310,EUR,2026-08-04,1,Yes,NO_ANSWER,"Called 4 Aug, no answer, no voicemail left.",2026-08-04 10:12,
+INV-2026-4310,Pramen Distribuce s.r.o.,CZ,Petr Novotny,p.novotny@pramen-dist.cz,+420 731 445 902,2026-06-04,2026-07-04,189400,189400,CZK,2026-07-30,2,Yes,NO_ANSWER,"Two attempts, both unanswered.",2026-07-30 14:40,
+INV-2026-4155,Kekes Kereskedelmi Kft.,HU,Anna Toth,a.toth@kekeskft.hu,+36 1 445 2210,2026-05-19,2026-06-18,1840000,1840000,HUF,,0,Yes,,,,
+INV-2026-4098,Dunarea Trade SRL,RO,Mihai Ionescu,m.ionescu@dunarea-trade.ro,+40 21 320 7745,2026-04-24,2026-05-24,21440,21440,RON,,0,Yes,,,,
+INV-2026-4021,Hanseatik Food Service GmbH,DE,Sabine Krüger,s.krueger@hanseatik-fs.de,+49 40 6612 3390,2026-03-22,2026-04-21,8990,8990,EUR,2026-06-15,3,Yes,PROMISE_TO_PAY,Promised payment by 30 June. Not received.,2026-06-15 9:05,
+INV-2026-4390,Veltner Gastro GmbH,AT,Thomas Berger,t.berger@veltner-gastro.at,+43 662 771 3345,2026-06-29,2026-07-29,1150,1150,EUR,,0,Yes,,,,
+INV-2026-4351,Veltner Gastro GmbH,AT,Thomas Berger,t.berger@veltner-gastro.at,+43 662 771 3345,2026-06-10,2026-07-10,3675.4,3675.4,EUR,,0,Yes,,,,
+INV-2026-4288,Veltner Gastro GmbH,AT,Thomas Berger,t.berger@veltner-gastro.at,+43 662 771 3345,2026-05-24,2026-06-23,940,940,EUR,,0,Yes,,,,
+INV-2026-4471,Nordbach Handels GmbH,DE,Katrin Vogel,k.vogel@nordbach-handels.de,+49 30 5540 1182,2026-07-09,2026-08-08,4820,4820,EUR,,0,Yes,,,,Duplicate export row from 18 Aug batch.
+INV-2026-4265,Rheinfeld Import GmbH,DE,Uwe Lehmann,u.lehmann@rheinfeld-import.de,+49 221 447 8890,2026-05-31,2026-06-30,6200,0,EUR,2026-08-11,1,Yes,PAID,"Paid in full 11 Aug, bank confirmation received.",2026-08-11 16:20,
+INV-2026-4199,Certa Nutrition SRL,RO,Elena Popa,e.popa@certanutrition.ro,+40 31 620 1194,2026-05-08,2026-06-07,9800,1225,RON,2026-08-12,2,Yes,PARTIAL_PAYMENT,"Paid 8575 RON on 12 Aug, remainder promised.",2026-08-12 11:35,
+CN-2026-0118,Rheinfeld Import GmbH,DE,Uwe Lehmann,u.lehmann@rheinfeld-import.de,+49 221 447 8890,2026-06-07,2026-07-07,-1450,-1450,EUR,,0,Yes,,,,Credit note for returned goods.
+INV-2026-4512,Marktzeit Retail GmbH,DE,Ines Baumann,i.baumann@marktzeit.de,+49 351 220 4417,2026-07-30,2026-08-29,5400,5400,EUR,,0,Yes,,,,
+INV-2026-4177,Sudpol Vending GmbH,AT,Erik Maier,e.maier@sudpol-vending.at,+43 512 330 8821,2026-04-16,2026-05-16,14200,14200,EUR,2026-07-22,2,Yes,DISPUTE,Claims 40 crates never delivered. Passed to account manager.,2026-07-22 13:15,
+INV-2026-3980,Brandeis Convenience s.r.o.,CZ,Lukas Svoboda,l.svoboda@brandeis-conv.cz,+420 602 118 774,2026-02-03,2026-03-05,412000,412000,CZK,2026-05-06,4,No,,,,Insolvency proceedings opened 5 May. Legal counsel handling - no direct contact.
+INV-2026-3902,Terra Verde Foods SRL,RO,Cristina Dima,c.dima@terraverde.ro,+40 264 447 2201,2025-10-10,2025-11-09,68900,68900,RON,2026-04-18,5,Yes,NO_ANSWER,"Five attempts since Feb, no contact established.",2026-04-18 10:50,
+INV-2026-4233,Gleisdorf Frischmarkt GmbH,AT,Peter Ruzicka,p.ruzicka@gleisdorf-fm.at,+43 3112 440 91,2026-05-16,2026-06-15,7350,7350,EUR,2026-08-18,1,Yes,PROMISE_TO_PAY,Confirmed payment run on 31 Aug 2026.,2026-08-18 9:30,
+INV-2026-4444,Ostrava Gastro a.s.,CZ,Jana Kralova,j.kralova@ostravagastro.cz,+420 596 220 118,2026-07-05,2026-08-04,96500,96500,CZK,2026-08-19,1,Yes,NO_ANSWER,"Called yesterday, line busy.",2026-08-19 15:05,
+INV-2026-4301,Wienfeld Catering GmbH,AT,Martina Ebner,,+43 1 220 9987,2026-06-06,2026-07-06,3120,3120,EUR,,0,Yes,,,,
+INV-2026-4276,Silesia Fresh Sp. z o.o.,CZ,Tomas Blaha,t.blaha@silesiafresh,+420 555 220 447,2026-05-29,2026-06-28,74300,74300,CZK,,0,Yes,,,,
+INV-2026-4189,Bergquell Getranke GmbH,DE,Ralf Sommer,r.sommer@bergquell-getraenke.de,0170 4471129,2026-05-03,2026-06-02,5670,5670,EUR,,0,Yes,,,,
+INV-2026-4144,Puszta Trade Kft.,HU,Zoltan Nagy,,,2026-04-28,2026-05-28,3120000,3120000,HUF,,0,Yes,,,,"Contact left the company, no replacement on file."
+INV-2026-4066,Adriatic Provisions SRL,RO,Radu Stan,r.stan@adriaticprov..ro,+40 21 660 3312,2026-04-09,2026-05-09,15600,15600,RON,,0,Yes,,,,
+INV-2026-4415,Fernblick Hotellerie GmbH,AT,Klaus Reiter,k.reiter@fernblick-hotel.at,+43 5522 771 40,2026-06-26,2026-07-26,2870,2870,EUR,,0,No,,,,On hold pending contract renegotiation.
+INV-2026-4362,Nordbach Handels GmbH,DE,Katrin Vogel,k.vogel@nordbach-handels.de,+49 30 5540 1182,2026-06-13,2026-07-13,1290,1290,EUR,,0,,,,,
+INV-2026-4207,Kleinmarkt Bio GmbH,DE,Heike Sommerfeld,h.sommerfeld@kleinmarkt-bio.de,+49 761 220 8834,2026-05-11,2026-06-10,2.5,2.5,EUR,,0,Yes,,,,
+INV-2026-4133,Tisza Logistics Kft.,HU,Gabor Szabo,g.szabo@tiszalog.hu,+36 62 440 7712,2026-03-22,2026-05-21,890000,890000,HUF,,0,Yes,,,,Payment terms 60 days per contract.
+INV-2026-4054,Karpaten Handel GmbH,DE,Dieter Falk,d.falk@karpaten-handel.de,+49 911 330 6620,2026-03-31,2026-04-30,44300,44300,EUR,2026-07-09,3,Yes,CALLBACK_REQUESTED,Asked to be called back after 15 Aug.,2026-07-09 11:20,
+INV-2026-4029,Zlaty Klas s.r.o.,CZ,Marie Dvorakova,m.dvorakova@zlatyklas.cz,+420 545 118 220,2026-03-14,2026-04-13,233000,233000,CZK,2026-06-02,2,Yes,WRONG_CONTACT,"Reached reception, AP contact unknown.",2026-06-02 14:10,
+INV-2026-3955,Levante Foods SRL,RO,Andrei Marin,a.marin@levantefoods.ro,+40 232 220 9914,2026-01-06,2026-02-05,31200,31200,RON,2026-03-30,4,Yes,SETTLEMENT_REQUESTED,Asked for 6-month instalment plan.,2026-03-30 9:45,
+INV-2026-4325,Hochland Feinkost GmbH,AT,Barbara Steiner,b.steiner@hochland-feinkost.at,+43 316 771 2204,2026-06-08,2026-07-08,18740,18740,EUR,,0,Yes,,,,
+INV-2026-4118,Moravia Market s.r.o.,CZ,Filip Cerny,f.cerny@moraviamarket.cz,+420 733 990 112,2026-04-15,2026-05-15,58900,58900,CZK,2026-08-17,1,Yes,OUT_OF_OFFICE,Auto-reply: back 1 Sep 2026.,2026-08-17 8:00,
+INV-2026-4491,Elbtal Grosshandel GmbH,DE,Frank Nowak,f.nowak@elbtal-gh.de,+49 341 220 5567,2026-07-13,2026-08-12,3980,3980,EUR,,0,Yes,,,,

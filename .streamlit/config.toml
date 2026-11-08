@@ -1,0 +1,11 @@
+[server]
+enableXsrfProtection = true
+enableCORS = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+# Show only the type of an unexpected error to visitors, never a stack trace with file paths.
+showErrorDetails = "type"
+toolbarMode = "viewer"

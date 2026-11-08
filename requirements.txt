@@ -1,0 +1,8 @@
+# Tested at both ends of these ranges (oldest and newest) on Python 3.13; the newest also on Python 3.14.
+# Streamlit 1.49 is the oldest the app runs on: it uses the `width="stretch"` option and st.context.theme.
+streamlit>=1.49,<2
+gspread>=6.1,<7
+google-auth>=2.30
+pandas>=2.2,<4
+plotly>=5.24,<8
+tzdata>=2024.1

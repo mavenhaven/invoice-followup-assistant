@@ -1,0 +1,24 @@
+# Secrets: never commit these
+.streamlit/secrets.toml
+*service-account*.json
+*service_account*.json
+*credentials*.json
+*-key.json
+.env
+.env.*
+
+# The original case-study export holds customer names, emails and phone numbers. The tests use the copy in
+# tests/fixtures; keep the repository PRIVATE, or replace that fixture with anonymised data before making it public.
+Case Study Data*.csv
+
+# Python and tooling
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+node_modules/
+
+# Office lock files (created while a document is open)
+~$*
