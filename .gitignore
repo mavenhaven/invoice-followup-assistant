@@ -22,3 +22,6 @@ node_modules/
 
 # Office lock files (created while a document is open)
 ~$*
+
+# The overview deck was edited by hand: keep it out of git (re-running scripts/build_overview_deck.py would overwrite it)
+docs/Invoice-Followup-Assistant.pptx
